@@ -1,2 +1,2 @@
-# Kodluyoruz-Python3
+# Kodluyoruz-Python
 Kodluyoruz Python kursu süresince yapılan ödevler.
