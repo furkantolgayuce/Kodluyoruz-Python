@@ -12,5 +12,3 @@ Yukarıdaki ile aynı işi yapan ve aynı listeyi oluşturmak için *list compre
 İpucu: Aşağıdaki üç nokta yerine bir şeyler yazılacak.
 
 `liste = [...]`
-
-### 
