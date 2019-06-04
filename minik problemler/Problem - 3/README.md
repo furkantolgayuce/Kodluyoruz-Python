@@ -9,4 +9,4 @@ df = pd.DataFrame([[1,2,3],[4,5,6]])
 df
 ```
 
-![Pandas Dataframe](/home/tolga/Github/Kodluyoruz-Python/minik problemler/Problem - 3/image/dataframe.jpg)
+![Pandas Dataframe](https://raw.githubusercontent.com/furkantolgayuce/Kodluyoruz-Python/master/minik%20problemler/Problem%20-%203/image/dataframe.jpg)
