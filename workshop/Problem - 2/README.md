@@ -36,4 +36,3 @@ beautifulsoup: http://omz-software.com/pythonista/docs/ios/beautifulsoup_guide.h
 **Kelime Kökü Bulmak için**
 Turkish Stemmer: https://github.com/otuncelli/turkish-stemmer-python
 [Snowball-stemmer](https://medium.com/@aanilkayy/pythonda-snowball-stemmer-kullanılması-e91ed9be8e9e)
-
